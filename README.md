@@ -11,10 +11,10 @@ O projeto é um SPA onde é possível buscar porqualquer repositório existente 
   <li>Terceiro Passo: Execute o comando yarn start para executar a aplicação</li>
 </ul>
   <p>
-    <img src="zImages/screen1.png" with="450">
+    <img src="zImages/screen1.PNG" with="450">
   </p>
  <hr>
  <p>
-  <img src="zImages/screen2.png" width="350">
-  <img src="zImages/screen3.png" width="350">
+  <img src="zImages/screen2.PNG" width="350">
+  <img src="zImages/screen3.PNG" width="350">
  </p>
